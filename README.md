@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-zambo-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://zambo.dev/
+Zambo provides a verifiable work layer for AI, offering a hosted MCP server with no API key, 153 live tools, and a verifiable trust layer. Founded by Brennan Zambo, the platform aims to simplify AI tool integration, ensure data provenance, and enable secure, auditable workflows for developers and enterprises alike.
+
+**Areas:** Company · AI · TrustLayer · MCP · Platform
+
+## zambo-dev on APIs.io
+
+Everything profiled for zambo-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/zambo-dev/](https://apis.io/providers/zambo-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [zambo-dev Capabilities API](https://apis.io/apis/zambo-dev/zambo-dev-capabilities-api/) — Full endpoint catalog
+- [zambo-dev Day Pass API](https://apis.io/apis/zambo-dev/zambo-dev-day-pass-api/) — The Day Pass API from zambo-dev — 1 operation(s) for day pass.
+- [zambo-dev Discovery API](https://apis.io/apis/zambo-dev/zambo-dev-discovery-api/) — Agent and capability discovery, routing, traction data
+- [zambo-dev GEO API](https://apis.io/apis/zambo-dev/zambo-dev-geo-api/) — Crawl telemetry and discoverability endpoints
+- [zambo-dev Handover API](https://apis.io/apis/zambo-dev/zambo-dev-handover-api/) — The Handover API from zambo-dev — 6 operation(s) for handover.
+- [zambo-dev Provibe Code API](https://apis.io/apis/zambo-dev/zambo-dev-provibecode-api/) — AI code audit with Provibe Score
+- [zambo-dev Today API](https://apis.io/apis/zambo-dev/zambo-dev-today-api/) — The Today API from zambo-dev — 3 operation(s) for today.
+- [zambo-dev Universal API](https://apis.io/apis/zambo-dev/zambo-dev-universal-api/) — Universal routing endpoint - one call, all products
+- [zambo-dev Zambo API](https://apis.io/apis/zambo-dev/zambo-dev-zambo-api/) — The Zambo API from zambo-dev — 1 operation(s) for zambo.
+- [zambo-dev ZAMBOT API](https://apis.io/apis/zambo-dev/zambo-dev-zambot-api/) — Agent Evolution Engine - swarm wisdom sparks
+- [zambo-dev ZAMBRO API](https://apis.io/apis/zambo-dev/zambo-dev-zambro-api/) — Opportunity scanner and builder intelligence
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Zambo Dev Agentic Access](https://apis.io/agentic-access/zambo-dev/zambo-dev-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Zambo Dev Context](https://apis.io/jsonld/zambo-dev/zambo-dev-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Zambo Dev Openapi Overlay](https://apis.io/overlays/zambo-dev/zambo-dev-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [zambo-dev API Rules](https://apis.io/rules/zambo-dev/zambo-dev-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Zambo Dev Authentication](https://apis.io/security/zambo-dev/zambo-dev-authentication/)
+- [Zambo Dev Domain Security](https://apis.io/security/zambo-dev/zambo-dev-domain-security/)
+- [Zambo Dev Trust Center](https://apis.io/security/zambo-dev/zambo-dev-trust-center/)
+- [Zambo Dev Vulnerability Disclosure](https://apis.io/security/zambo-dev/zambo-dev-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Zambo Dev Plans Pricing](https://apis.io/plans/zambo-dev/zambo-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zambo.dev/)
+- [Documentation](https://zambo.dev/docs)
+- [API reference](https://zambo.dev/api)
+- [Pricing](https://zambo.dev/pricing)
+- [Support](https://zambo.dev/support)
+- [Changelog](https://zambo.dev/changelog/)
+- [Blog](https://zambo.dev/blog)
+- [Security](https://zambo.dev/security/)
+- [Compliance](https://zambo.dev/security)
+- [Terms of service](https://zambo.dev/terms)
+- [Privacy policy](https://zambo.dev/privacy)
+- [Status](https://zambo.dev/status/)
+
+## API Evangelist rating
+
+**Kin Score 64.3** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 46.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 66.0 |
+| Access clarity | 75.8 |
+
+**Agent readiness 58.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/zambo-dev/](https://apis.io/providers/zambo-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for zambo-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/zambo-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
